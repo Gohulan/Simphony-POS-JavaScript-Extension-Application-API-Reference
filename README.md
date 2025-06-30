@@ -1,0 +1,1 @@
+# Simphony-POS-JavaScript-Extension-Application-API-Reference
