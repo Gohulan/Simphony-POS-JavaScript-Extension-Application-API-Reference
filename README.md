@@ -49,6 +49,8 @@ This repository includes:
 
 [1. How to Add Menu Items, Discounts and Tenders to a Simphony Check via JavaScript Extensibility Code](https://github.com/Gohulan/Simphony-POS-JavaScript-Extension-Application-API-Reference/blob/main/Simphony_POS_JavaScript_Extensibility_References.js)
 
+[2. How to Add Menu Items, Discounts and Tenders to a Simphony Check with reference entries via JavaScript Extensibility Code](https://github.com/Gohulan/Simphony-POS-JavaScript-Extension-Application-API-Reference/blob/main/Simphony_POS_JavaScript_Extensibility_References.js)
+
 ## ✍️ Contributing
 
 If you have improvements, new samples, or bug fixes, please submit a pull request.  
