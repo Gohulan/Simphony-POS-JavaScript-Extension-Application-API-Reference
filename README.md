@@ -45,9 +45,9 @@ This repository includes:
 - Detailed reference documentation is available here:  
   👉 [Oracle Simphony JavaScript Extensibility Guide](https://docs.oracle.com/en/industries/food-beverage/simphony/19.8/simjs/index.html)
 
-  ## 💡 Topics
+## 💡 Topics
 
-[Simphony JavaScript Extensibility Code - Adding Menu Items, Discounts and Tender to Check](https://github.com/Gohulan/Simphony-POS-JavaScript-Extension-Application-API-Reference/blob/main/Simphony_POS_JavaScript_Extensibility_References.js)
+[✅ How to Add Menu Items, Discounts and Tenders to a Simphony Check via JavaScript Extensibility Code](https://github.com/Gohulan/Simphony-POS-JavaScript-Extension-Application-API-Reference/blob/main/Simphony_POS_JavaScript_Extensibility_References.js)
 
 ## ✍️ Contributing
 
