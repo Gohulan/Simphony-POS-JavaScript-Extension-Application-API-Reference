@@ -54,6 +54,10 @@ Together, we can build a comprehensive library of extensibility solutions for th
 
 This repository is licensed under the MIT License. See `LICENSE` for more information.
 
+## 💡 Topics
+
+[Simphony JavaScript Extensibility Code - Adding Menu Items, Discounts and Tender to Check](https://github.com/Gohulan/Simphony-POS-JavaScript-Extension-Application-API-Reference/blob/main/Simphony_POS_JavaScript_Extensibility_References.js)
+
 ---
 
 🔗 **Author**: Gohulan Somanathan  
